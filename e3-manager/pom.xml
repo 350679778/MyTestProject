@@ -23,6 +23,7 @@
 		<module>e3-manager-interface</module>
 		<module>e3-manager-service</module>
 		<module>e3-manager-web</module>
+		<module>e3-test</module>
 	</modules>
 	<!-- 配置tomcat插件 -->
 	<build>

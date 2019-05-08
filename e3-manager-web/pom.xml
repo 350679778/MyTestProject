@@ -82,6 +82,11 @@
 			<groupId>com.github.sgroschupf</groupId>
 			<artifactId>zkclient</artifactId>
 		</dependency>
+		<!-- pageHelper的依赖，解决classNotFound报错问题 -->
+		<dependency>
+			<groupId>com.github.pagehelper</groupId>
+			<artifactId>pagehelper</artifactId>
+		</dependency>
 	</dependencies>
 		<build>
 		<plugins>
